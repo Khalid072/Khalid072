@@ -1,4 +1,4 @@
-RV32I SINGLE CYCLE CORE RTL SCHEMATIC
+RV32I SINGLE CYCLE CORE RTL SCHEMATIC                                                                                KHALID ANWER EL-072
 ![enlarge_RTL](https://github.com/Khalid072/Khalid072/assets/149706572/444f8208-e8e0-4e04-82d6-e44a68aa49d6)
 
 
